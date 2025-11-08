@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/como-llenar-una",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a como-llenar-una",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/como-llenar-una.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://transpero.net/es/como-llenar-una-carta-poder/"
+    },
+    "homepage": "https://transpero.net/es/como-llenar-una-carta-poder/"
+}
